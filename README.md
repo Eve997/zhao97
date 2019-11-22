@@ -44,6 +44,23 @@
 
 
 
+
+
+
+
+![image](https://github.com/Eve997/zhao97/blob/master/images/消费信息.png)
+
+
+
+
+
+
+
+
+
+
+
+
 小组分工说明
 
 设计以及前端：赵子淇、祁晔、刘瑛琪
