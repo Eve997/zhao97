@@ -73,6 +73,66 @@
 
 
 
+![image](https://github.com/Eve997/zhao97/blob/master/images/消费分析.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/Eve997/zhao97/blob/master/images/消费定位.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/Eve997/zhao97/blob/master/images/账目分类.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 小组分工说明
 
